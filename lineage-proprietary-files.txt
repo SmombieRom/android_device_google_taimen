@@ -38,11 +38,8 @@ lib/lib-imsvt.so
 lib/lib-imsvtutils.so
 
 # Perf
-#lib64/libiperf.so - invalid
 lib64/librcc.so
-#lib/libiperf.so - invalid
 lib/librcc.so
-#xbin/iperf3 - invalid
 #xbin/sanitizer-status - invalid
 
 # RIL
