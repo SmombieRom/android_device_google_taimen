@@ -34,13 +34,5 @@ cc_library_static {
     shared_libs: [
         "libbase",
         "librecovery_ui",
-
-    ],
-    srcs: [
-        "gpt-utils.cpp",
-    ],
-    owner: "qti",
-    header_libs: [
-        "generated_kernel_headers",
     ],
 }
